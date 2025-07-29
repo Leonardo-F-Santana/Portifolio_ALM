@@ -33,11 +33,14 @@ body{
 }
 h2.titulo{
     color: #000000;
-    font-size: 38px;
+    font-size: 50px;
     text-align: center;
+    margin: 40px 0;
+    font-weight: 600;
 }
 h2.titulo span{
     color: #00727a;
+    font-weight: 600;
 }
 /*Estilo do Cabeçlho*/
 header{
@@ -140,11 +143,11 @@ section.especialidades .flex{
     margin: 15px 0;
 }
 section.sobre{
-    padding: 50px 4%;
+    padding: 80px 4%;
 }
 section.sobre .flex{
     align-items: center;
-    gap: 60px;
+    gap: 40px;
 }
 .sobre .txt-sobre{
     color: #000000;
